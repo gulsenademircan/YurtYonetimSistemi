@@ -1,0 +1,148 @@
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\YurtYönetimSistemi.exe.config
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\YurtYönetimSistemi.exe
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\YurtYönetimSistemi.pdb
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.exe
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.pdb
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.FormIzin.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.FormAdminGiris.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.FormYöneticiAyarları.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.FormYöneticiAyarlarıGiris.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\YurtYönetimSistemi.exe.manifest
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\YurtYönetimSistemi.application
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.exe.manifest
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.application
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\RestSharp.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.CodeDom.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Data.Odbc.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Data.OleDb.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Drawing.Common.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.IO.Packaging.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.IO.Ports.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Memory.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Permissions.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.Fody.CopyLocal.cache
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.CopyComplete
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.AnaForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OgrenciKayitForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OgrenciIslemleriForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.PersonelKayitForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.PersonelIslemleriForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OgrenciListesiForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.PersonelListesiForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.IzinBulForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.KayipEsyaForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.EsyaListeForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.EsyaIslemleriForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OdemeForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OdemeKayitForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.HarcamaForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OdalarForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.YazdirForm.resources
+C:\Users\ASUS\source\repos\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OdaKalan.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\YurtYönetimSistemi.exe.config
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\YurtYönetimSistemi.exe.manifest
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\YurtYönetimSistemi.application
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\YurtYönetimSistemi.exe
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\YurtYönetimSistemi.pdb
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\RestSharp.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.CodeDom.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Data.Odbc.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Data.OleDb.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Drawing.Common.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.IO.Packaging.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.IO.Ports.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Permissions.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.AnaForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.YazdirForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.EsyaListeForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.EsyaIslemleriForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.HarcamaForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.IzinBulForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.KayipEsyaForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OdalarForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OdemeForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OdemeKayitForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OgrenciKayitForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OgrenciIslemleriForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.PersonelKayitForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.PersonelIslemleriForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.FormAdminGiris.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.FormIzin.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OgrenciListesiForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.FormYöneticiAyarları.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.FormYöneticiAyarlarıGiris.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.PersonelListesiForm.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.OdaKalan.resources
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.Fody.CopyLocal.cache
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.exe.manifest
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.application
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.csproj.CopyComplete
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.exe
+C:\Users\ASUS\Desktop\masaüstü tüm dosya\Bitirme Projesi\YurtYönetimSistemi\YurtYönetimSistemi\obj\Debug\YurtYönetimSistemi.pdb
